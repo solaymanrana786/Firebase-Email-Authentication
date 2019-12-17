@@ -1,0 +1,6 @@
+framework module Pods_Email_Authentication_Firebase_Email_Authentication_FirebaseUITests {
+  umbrella header "Pods-Email Authentication Firebase-Email Authentication FirebaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
